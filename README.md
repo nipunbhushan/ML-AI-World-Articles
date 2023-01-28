@@ -1,5 +1,15 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+# Key Notes | Recreating Images From The Brain:
+
+Sophisticated decoding and encoding models have been developed earlier to render human brain activity into images or movies, the methods were essentially limited to the image reconstruction with low-level image bases.
+
+Therefore, it failed to combine visual features of multiple hierarchical levels. Furthermore, while several recent attempts introduced deep neural networks (DNNs) into visual image reconstructions, they also did not fully utilize hierarchical information to reconstruct visual images.
+
+The new research showed that visual cortical activity (visual features) can be decoded (translated) into hierarchical features of a deep neural network (DNN) for the same input image, providing a way to make use of the information from hierarchical visual features.
+
+**NOTE:** Research paper has been attached for reference on this git page.
+
 # Lab | Machine Learning & AI World
 Machine Learning now is one of the trending topics if you talk aboyt technology. Everyday a lot of material about this topic arrives to the media, not only news about new discovers but also a lot of tutorials and articles about people working on this.
 
